@@ -9,9 +9,8 @@
 
   <!-- social badges -->
   <p>
-    <a href="mailto:ran.roffe@pace.edu">📬 Email</a> •
+    <a href="mailto:ranro3@gmail.com">📬 Email</a> •
     <a href="https://www.linkedin.com/in/ran-roffe">💼 LinkedIn</a> •
-    <a href="https://github.com/ranro1">💻 GitHub</a>
   </p>
 
 </div>
