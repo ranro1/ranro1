@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Ran Roffe</h1>
-  <h3>AI Engineer & Data Scientist | Expert in Forecasting, Deep Learning, and Agentic AI</h3>
+  <h3>AI Engineer & Data Scientist</h3>
 
   <p>
     Welcome to my GitHub! I'm a Data Scientist and AI Engineer with 5+ years of experience leading end-to-end research projects, specializing in time-series forecasting, tabular classification problems, and deep learning. Passionate about exploring Agentic AI, GPT-based architectures, and computer vision.
