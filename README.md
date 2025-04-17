@@ -30,15 +30,45 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Polars-0072FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3..."/>  
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLFlow-333?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-FC6D26?style=for-the-badge&logo=xgboost&logoColor=white"/>
-</p>
+**Languages & Databases:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+**Machine Learning & Forecasting:**  
+<img src="https://img.shields.io/badge/XGBoost-FC6D26?style=for-the-badge&logo=xgboost&logoColor=white"/>  
+<img src="https://img.shields.io/badge/LightGBM-6699CC?style=for-the-badge&logo=lightgbm&logoColor=white"/>  
+<img src="https://img.shields.io/badge/ARIMA/SARIMA/SARIMAX-555555?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=tree&logoColor=white"/>  
+<img src="https://img.shields.io/badge/KNN-KMeans-blue?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/Regression-999999?style=for-the-badge"/>
+
+**Deep Learning & NLP:**  
+<img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/RAG-336699?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/CNN-FF6F61?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/OCR-8E44AD?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/GPT_Architectures-6A5ACD?style=for-the-badge"/>
+
+**Libraries & Frameworks:**  
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>  
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Statsmodels-333333?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/Polars-0072FF?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>  
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>  
+<img src="https://img.shields.io/badge/MLflow-020202?style=for-the-badge&logo=mlflow&logoColor=white"/>  
+
+**Visualization Tools:**  
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/Seaborn-16A085?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/Bokeh-2F4F4F?style=for-the-badge"/>
 
 ---
 
