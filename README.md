@@ -17,6 +17,26 @@
 </div>
 
 ---
+### 👋 About Me
+
+I'm a Data Scientist and AI enthusiast with 5+ years of experience applying machine learning, deep learning, and predictive analytics to solve real-world problems. I've built and deployed AI-driven solutions across domains like computer vision, time series forecasting, and structured data-delivering insights that drive decision-making at scale.
+
+Currently, I’m pursuing an M.S. in Data Science at Pace University with a focus on Deep Learning. My academic path also includes an MBA in Finance & Insurance and a B.Sc. in Software Engineering, giving me a rare blend of technical, analytical, and business expertise.
+
+---
+
+### 🧠 What I Do Best
+
+- ⚡ **Forecasting optimization** – Reduced model runtime by 80%, accelerating financial decision-making  
+- 📄 **Deep learning for OCR & NLP** – Cut document processing time by 60%  
+- ✅ **Classification modeling** – Improved decision outcomes, reducing uncertainty by 50%  
+- 📊 **Data storytelling** – Built dashboards and KPIs that translated raw data into strategy  
+
+---
+
+### 🎯 Career Interests
+
+I'm deeply interested in Agentic AI systems, LLMs, and applications that combine interpretability with performance. I thrive on bridging the gap between data engineering and machine learning, especially in high-stakes, real-time environments.
 
 ### 🚀 What I Do
 
@@ -31,44 +51,54 @@
 ### 🛠️ Tech Stack
 
 **Languages & Databases:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
 **Machine Learning & Forecasting:**  
-<img src="https://img.shields.io/badge/XGBoost-FC6D26?style=for-the-badge&logo=xgboost&logoColor=white"/>  
-<img src="https://img.shields.io/badge/LightGBM-6699CC?style=for-the-badge&logo=lightgbm&logoColor=white"/>  
-<img src="https://img.shields.io/badge/ARIMA/SARIMA/SARIMAX-555555?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=tree&logoColor=white"/>  
-<img src="https://img.shields.io/badge/KNN-KMeans-blue?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/Regression-999999?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/XGBoost-FC6D26?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-6699CC?style=for-the-badge&logo=lightgbm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ARIMA/SARIMA/SARIMAX-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/KNN/KMeans-4682B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Regression-999999?style=for-the-badge"/>
+</p>
 
 **Deep Learning & NLP:**  
-<img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/RAG-336699?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/CNN-FF6F61?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/OCR-8E44AD?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/GPT_Architectures-6A5ACD?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-336699?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CNN-FF6F61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OCR-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GPT_Architectures-6A5ACD?style=for-the-badge"/>
+</p>
 
 **Libraries & Frameworks:**  
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>  
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Statsmodels-333333?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/Polars-0072FF?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>  
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>  
-<img src="https://img.shields.io/badge/MLflow-020202?style=for-the-badge&logo=mlflow&logoColor=white"/>  
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statsmodels-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Polars-0072FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-020202?style=for-the-badge&logo=mlflow&logoColor=white"/>
+</p>
 
 **Visualization Tools:**  
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/Seaborn-16A085?style=for-the-badge"/>  
-<img src="https://img.shields.io/badge/Bokeh-2F4F4F?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-16A085?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bokeh-2F4F4F?style=for-the-badge"/>
+</p>
 
 ---
 
